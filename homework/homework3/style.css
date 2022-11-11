@@ -1,0 +1,27 @@
+span{
+    color: red;
+    font-weight: bolder;
+    font-size: 150%;
+}
+
+strong{
+    color: blue;
+}
+
+.block{
+    color: grey;
+}
+
+.box {
+    width: 30%;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+}
+
+body{ 
+    background-image: url(butterfly.png); 
+    background-repeat: repeat-y;
+    background-size: 200px;
+    background-position: right;
+}
