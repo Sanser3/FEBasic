@@ -1,0 +1,21 @@
+h1{
+    color: rgb(167, 41, 41);
+    text-align: center;
+}
+
+.block{
+    background-color: lightblue;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 30px;
+}
+
+.block img{
+    width: 150px;
+    height: 150px;
+}
+
+h3{
+    color: blue;
+    text-align: center;
+}
